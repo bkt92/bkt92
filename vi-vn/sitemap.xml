@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bkt92.github.io/bkt92/vi-vn/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bkt92.github.io/bkt92/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://bkt92.github.io/bkt92/vi-vn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bkt92.github.io/bkt92/vi-vn/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bkt92.github.io/bkt92/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://bkt92.github.io/bkt92/vi-vn/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bkt92.github.io/bkt92/vi-vn/li%C3%AAn-h%E1%BB%87/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bkt92.github.io/bkt92/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://bkt92.github.io/bkt92/vi-vn/li%C3%AAn-h%E1%BB%87/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bkt92.github.io/bkt92/vi-vn/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bkt92.github.io/bkt92/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://bkt92.github.io/bkt92/vi-vn/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bkt92.github.io/bkt92/vi-vn/series/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bkt92.github.io/bkt92/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://bkt92.github.io/bkt92/vi-vn/series/"
+                />
+  </url>
+  
+</urlset>
