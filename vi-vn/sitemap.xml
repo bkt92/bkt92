@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://buikhactu.com/vi-vn/posts/test/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buikhactu.com/vi-vn/posts/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buikhactu.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://buikhactu.com/vi-vn/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://buikhactu.com/vi-vn/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -14,6 +35,38 @@
                 rel="alternate"
                 hreflang="vi-vn"
                 href="https://buikhactu.com/vi-vn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://buikhactu.com/vi-vn/series/getting-started/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buikhactu.com/series/getting-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://buikhactu.com/vi-vn/series/getting-started/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://buikhactu.com/vi-vn/series/hugo/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buikhactu.com/series/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://buikhactu.com/vi-vn/series/hugo/"
                 />
   </url>
   
@@ -32,21 +85,8 @@
   </url>
   
   <url>
-    <loc>https://buikhactu.com/vi-vn/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://buikhactu.com/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="https://buikhactu.com/vi-vn/projects/"
-                />
-  </url>
-  
-  <url>
     <loc>https://buikhactu.com/vi-vn/series/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

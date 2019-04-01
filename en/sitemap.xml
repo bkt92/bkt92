@@ -85,31 +85,47 @@
     <loc>https://buikhactu.com/series/getting-started/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://buikhactu.com/vi-vn/series/getting-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buikhactu.com/series/getting-started/"
+                />
   </url>
   
   <url>
     <loc>https://buikhactu.com/series/hugo/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://buikhactu.com/vi-vn/series/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buikhactu.com/series/hugo/"
+                />
   </url>
   
   <url>
     <loc>https://buikhactu.com/posts/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://buikhactu.com/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="https://buikhactu.com/vi-vn/projects/"
+                href="https://buikhactu.com/vi-vn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://buikhactu.com/projects/"
+                href="https://buikhactu.com/posts/"
                 />
   </url>
   
