@@ -3,74 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bkt92.github.io/bkt92/vi-vn/</loc>
+    <loc>https://buikhactu.com/vi-vn/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bkt92.github.io/bkt92/"
+                href="https://buikhactu.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="https://bkt92.github.io/bkt92/vi-vn/"
+                href="https://buikhactu.com/vi-vn/"
                 />
   </url>
   
   <url>
-    <loc>https://bkt92.github.io/bkt92/vi-vn/about/</loc>
+    <loc>https://buikhactu.com/vi-vn/li%C3%AAn-h%E1%BB%87/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bkt92.github.io/bkt92/about/"
+                href="https://buikhactu.com/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="https://bkt92.github.io/bkt92/vi-vn/about/"
+                href="https://buikhactu.com/vi-vn/li%C3%AAn-h%E1%BB%87/"
                 />
   </url>
   
   <url>
-    <loc>https://bkt92.github.io/bkt92/vi-vn/li%C3%AAn-h%E1%BB%87/</loc>
+    <loc>https://buikhactu.com/vi-vn/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bkt92.github.io/bkt92/contact/"
+                href="https://buikhactu.com/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="https://bkt92.github.io/bkt92/vi-vn/li%C3%AAn-h%E1%BB%87/"
+                href="https://buikhactu.com/vi-vn/projects/"
                 />
   </url>
   
   <url>
-    <loc>https://bkt92.github.io/bkt92/vi-vn/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bkt92.github.io/bkt92/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="https://bkt92.github.io/bkt92/vi-vn/projects/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bkt92.github.io/bkt92/vi-vn/series/</loc>
+    <loc>https://buikhactu.com/vi-vn/series/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bkt92.github.io/bkt92/series/"
+                href="https://buikhactu.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="https://bkt92.github.io/bkt92/vi-vn/series/"
+                href="https://buikhactu.com/vi-vn/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://buikhactu.com/vi-vn/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buikhactu.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="https://buikhactu.com/vi-vn/about/"
                 />
   </url>
   
