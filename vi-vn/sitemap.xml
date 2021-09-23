@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://buikhactu.com/vi-vn/posts/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="vi-vn"
                 href="https://buikhactu.com/vi-vn/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://buikhactu.com/vi-vn/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="vi-vn"
                 href="https://buikhactu.com/vi-vn/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://buikhactu.com/vi-vn/series/getting-started/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="vi-vn"
                 href="https://buikhactu.com/vi-vn/series/getting-started/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://buikhactu.com/vi-vn/series/hugo/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -60,14 +53,10 @@
                 hreflang="vi-vn"
                 href="https://buikhactu.com/vi-vn/series/hugo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://buikhactu.com/vi-vn/posts/test/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://buikhactu.com/vi-vn/series/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -80,9 +69,7 @@
                 hreflang="vi-vn"
                 href="https://buikhactu.com/vi-vn/series/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://buikhactu.com/vi-vn/li%C3%AAn-h%E1%BB%87/</loc>
     <xhtml:link
                 rel="alternate"
@@ -94,9 +81,7 @@
                 hreflang="vi-vn"
                 href="https://buikhactu.com/vi-vn/li%C3%AAn-h%E1%BB%87/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://buikhactu.com/vi-vn/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -109,5 +94,4 @@
                 href="https://buikhactu.com/vi-vn/about/"
                 />
   </url>
-  
 </urlset>
