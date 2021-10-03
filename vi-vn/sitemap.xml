@@ -2,6 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.buikhactu.com/vi-vn/posts/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/posts/"
+                />
+  </url><url>
+    <loc>http://www.buikhactu.com/vi-vn/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/"
+                />
+  </url><url>
+    <loc>http://www.buikhactu.com/vi-vn/series/getting-started/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/series/getting-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/series/getting-started/"
+                />
+  </url><url>
+    <loc>http://www.buikhactu.com/vi-vn/series/hugo/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/series/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/series/hugo/"
+                />
+  </url><url>
+    <loc>http://www.buikhactu.com/vi-vn/posts/test/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/vi-vn/series/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/series/"
+                />
+  </url><url>
     <loc>http://www.buikhactu.com/vi-vn/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -12,18 +80,6 @@
                 rel="alternate"
                 hreflang="vi-vn"
                 href="http://www.buikhactu.com/vi-vn/authors/"
-                />
-  </url><url>
-    <loc>http://www.buikhactu.com/vi-vn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.buikhactu.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="http://www.buikhactu.com/vi-vn/"
                 />
   </url><url>
     <loc>http://www.buikhactu.com/vi-vn/categories/</loc>
@@ -38,16 +94,16 @@
                 href="http://www.buikhactu.com/vi-vn/categories/"
                 />
   </url><url>
-    <loc>http://www.buikhactu.com/vi-vn/series/</loc>
+    <loc>http://www.buikhactu.com/vi-vn/li%C3%AAn-h%E1%BB%87/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.buikhactu.com/series/"
+                href="http://www.buikhactu.com/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi-vn"
-                href="http://www.buikhactu.com/vi-vn/series/"
+                href="http://www.buikhactu.com/vi-vn/li%C3%AAn-h%E1%BB%87/"
                 />
   </url><url>
     <loc>http://www.buikhactu.com/vi-vn/tags/</loc>
@@ -60,6 +116,18 @@
                 rel="alternate"
                 hreflang="vi-vn"
                 href="http://www.buikhactu.com/vi-vn/tags/"
+                />
+  </url><url>
+    <loc>http://www.buikhactu.com/vi-vn/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/about/"
                 />
   </url>
 </urlset>

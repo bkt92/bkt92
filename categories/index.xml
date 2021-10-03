@@ -8,29 +8,11 @@
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.buikhactu.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>sintaxe</title>
-      <link>http://www.buikhactu.com/categories/sintaxe/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.buikhactu.com/categories/sintaxe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>syntax</title>
       <link>http://www.buikhactu.com/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.buikhactu.com/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>temas</title>
-      <link>http://www.buikhactu.com/categories/temas/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.buikhactu.com/categories/temas/</guid>
       <description></description>
     </item>
     
@@ -49,6 +31,24 @@
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.buikhactu.com/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>http://www.buikhactu.com/categories/blog/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.buikhactu.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://www.buikhactu.com/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.buikhactu.com/categories/golang/</guid>
       <description></description>
     </item>
     

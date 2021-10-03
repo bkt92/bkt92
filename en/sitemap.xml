@@ -31,12 +31,6 @@
     <loc>http://www.buikhactu.com/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.buikhactu.com/posts/markdown-syntax.pt-br/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.buikhactu.com/series/guia-do-thema/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.buikhactu.com/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -48,6 +42,16 @@
   </url><url>
     <loc>http://www.buikhactu.com/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/posts/"
+                />
   </url><url>
     <loc>http://www.buikhactu.com/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -61,9 +65,6 @@
                 hreflang="en"
                 href="http://www.buikhactu.com/series/"
                 />
-  </url><url>
-    <loc>http://www.buikhactu.com/categories/sintaxe/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.buikhactu.com/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -81,17 +82,11 @@
                 href="http://www.buikhactu.com/tags/"
                 />
   </url><url>
-    <loc>http://www.buikhactu.com/categories/temas/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.buikhactu.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.buikhactu.com/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.buikhactu.com/posts/rich-content.pt-br/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.buikhactu.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
@@ -102,9 +97,6 @@
     <loc>http://www.buikhactu.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.buikhactu.com/posts/more-rich-content.pt-br/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.buikhactu.com/posts/more-rich-content/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -114,12 +106,6 @@
     <loc>http://www.buikhactu.com/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.buikhactu.com/posts/placeholder-text.pt-br/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.buikhactu.com/posts/math-typesetting.pt-br/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.buikhactu.com/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -127,9 +113,6 @@
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.buikhactu.com/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.buikhactu.com/posts/emoji-support.pt-br/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.buikhactu.com/categories/development/</loc>
@@ -144,17 +127,86 @@
     <loc>http://www.buikhactu.com/tags/hugo/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.buikhactu.com/posts/hugo-coder-wiki/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.buikhactu.com/tags/themes/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.buikhactu.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/about/"
+                />
   </url><url>
-    <loc>http://www.buikhactu.com/about.pt-br/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>http://www.buikhactu.com/categories/blog/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/posts/dummy/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/tags/i18n/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/series/hugo/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/series/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/series/hugo/"
+                />
+  </url><url>
+    <loc>http://www.buikhactu.com/series/theme/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/posts/theme-demo/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/posts/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/posts/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/series/getting-started/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/series/getting-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/series/getting-started/"
+                />
+  </url><url>
+    <loc>http://www.buikhactu.com/posts/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/posts/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.buikhactu.com/authors/</loc>
     <xhtml:link
@@ -169,10 +221,16 @@
                 />
   </url><url>
     <loc>http://www.buikhactu.com/contact/</loc>
-  </url><url>
-    <loc>http://www.buikhactu.com/contact/</loc>
-  </url><url>
-    <loc>http://www.buikhactu.com/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/li%C3%AAn-h%E1%BB%87/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/contact/"
+                />
   </url><url>
     <loc>http://www.buikhactu.com/projects/</loc>
   </url>
