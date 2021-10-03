@@ -71,17 +71,6 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://www.buikhactu.com/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.buikhactu.com/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
-    </item>
-    
-    <item>
       <title>Dummy</title>
       <link>http://www.buikhactu.com/posts/dummy/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
@@ -148,12 +137,22 @@ Follow the following steps:</description>
     </item>
     
     <item>
+      <title>About Me</title>
+      <link>http://www.buikhactu.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.buikhactu.com/about/</guid>
+      <description>Hello My name is Tu.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://www.buikhactu.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.buikhactu.com/contact/</guid>
-      <description>Follow me, @johndoe.</description>
+      <description>Email me: bkt992@gmail.com
+Phone me: +84.355.399.838</description>
     </item>
     
     <item>

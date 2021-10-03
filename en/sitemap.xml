@@ -130,19 +130,6 @@
     <loc>http://www.buikhactu.com/tags/themes/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.buikhactu.com/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi-vn"
-                href="http://www.buikhactu.com/vi-vn/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.buikhactu.com/about/"
-                />
-  </url><url>
     <loc>http://www.buikhactu.com/categories/blog/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -207,6 +194,18 @@
   </url><url>
     <loc>http://www.buikhactu.com/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.buikhactu.com/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi-vn"
+                href="http://www.buikhactu.com/vi-vn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.buikhactu.com/about/"
+                />
   </url><url>
     <loc>http://www.buikhactu.com/authors/</loc>
     <xhtml:link
