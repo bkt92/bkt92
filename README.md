@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge"/>
   </a>
   <a href="https://buikhactu.com">
-    <img src="https://img.shields.io/badge/buikhactu.com-welcome-blue" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/buikhactu.com-welcome-blue?style=for-the-badge&logo=messenger&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
