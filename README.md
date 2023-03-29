@@ -1,5 +1,4 @@
 # bkt92
-My webpage
 
 ### :fire: My Stats :
 <div align="center">
