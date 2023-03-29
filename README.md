@@ -1,4 +1,18 @@
-# bkt92
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/buikhactu">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.messenger.com/t/bkt992">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge"/>
+  </a>
+  <a href="https://buikhactu.com">
+    <img src="https://img.shields.io/badge/buikhactu.com-welcome-blue" alt="Youtube Badge"/>
+  </a>
+</div>
+
+<h1 align="center">
+  Welcome to my space
+</h1>
 
 ### :fire: My Stats :
 <div align="center">
